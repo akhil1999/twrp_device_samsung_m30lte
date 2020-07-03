@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "akhil1999/android_kernel_samsung_m30lte",
+    "target_path": "kernel/samsung/m30lte
+    "branch": "twrp",
+    "remote": "github"
+  }
+]

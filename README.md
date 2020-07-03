@@ -1,0 +1,2 @@
+# android_device_samsung_m30lte
+# twrp_device_samsung_m30lte
