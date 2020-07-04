@@ -25,8 +25,8 @@ on boot
 
 on property:sys.usb.ffs.ready=1 && property:sys.usb.config=mtp,adb
     write /sys/class/android_usb/android0/enable 0
-    write /sys/kernel/config/usb_gadget/g1/idVendor 0x04e8
-    write /sys/kernel/config/usb_gadget/g1/idProduct 0x6860
+    write /sys/kernel/config/usb_gadget/g1/idVendor 0x18d1
+    write /sys/kernel/config/usb_gadget/g1/idProduct 0x2d00
     write /sys/class/android_usb/android0/functions ${sys.usb.config}
     write /sys/kernel/config/usb_gadget/g1/bDeviceClass 0
     write /sys/kernel/config/usb_gadget/g1/UDC 13600000.dwc3
@@ -36,7 +36,7 @@ on property:sys.usb.ffs.ready=1 && property:sys.usb.config=mtp,adb
 on property:sys.usb.ffs.ready=1 && property:sys.usb.config=adb
     write /sys/class/android_usb/android0/enable 0
     write /sys/kernel/config/usb_gadget/g1/idVendor 0x04e8
-    write /sys/kernel/config/usb_gadget/g1/idProduct 0x6860
+    write /sys/kernel/config/usb_gadget/g1/idProduct 0x685d
     write /sys/class/android_usb/android0/functions ${sys.usb.config}
     write /sys/kernel/config/usb_gadget/g1/bDeviceClass 0
     write /sys/kernel/config/usb_gadget/g1/UDC 13600000.dwc3
