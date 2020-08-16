@@ -1,8 +1,6 @@
-# TWRP device tree for Samsung M30 SM-M305[F]/[M]
+# Samsung M30 SM-M305[F]/[M] TWRP Device Tree
 
 #Find kernel source over here https://github.com/akhil1999/android_kernel_samsung_m30lte
-
-# Samsung M30 SM-M305[F]/[M] TWRP Device Tree
 
 This branch is for building of TeamWin Recovey Project (TWRP) Recovery.
 This tree compatible with TWRP 3.4.0.0, pie sources.
