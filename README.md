@@ -22,7 +22,8 @@ CHIPSET | Samsung Exynos 7904
 GPU     | ARM Mali G71 MP2
 Memory  | 3 GB / 4 GB / 6 GB
 Shipped Android Version | 8.1.0
-Storage | 32 GB / 64GB
+Updated Android Version | 10.0
+Storage | 32 GB / 64GB / 128GB
 MicroSD | Up to 64 GB
 Battery | 5000 mAh (non-removable)
 Dimensions | 159 x 75.1 x 8.5 mm
