@@ -1,4 +1,4 @@
-# Samsung M30 SM-M305[F]/[M] TWRP Device Tree
+# Samsung M30 SM-M305F/M TWRP Device Tree
 
 #Find kernel source over here https://github.com/akhil1999/android_kernel_samsung_m30lte
 
@@ -18,7 +18,7 @@ Samsung Galaxy M30 (m30lte)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Octa-core 2x1.8GHz A73 + 6x1.6Ghz A53, ARM HMP big.LITTLE GTS
-CHIPSET | Samsung Exynos 7904
+Chipset | Samsung Exynos 7904
 GPU     | ARM Mali G71 MP2
 Memory  | 3 GB / 4 GB / 6 GB
 Shipped Android Version | 8.1.0
